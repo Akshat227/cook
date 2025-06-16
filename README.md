@@ -36,3 +36,11 @@
 
 * **More Coming Soon**: Stay tuned for more exciting features and updates in the future!
 
+---
+
+## 👥 Who is it for?
+
+- **Solo developers** managing multiple side projects.
+- **Teams** looking to standardize and reuse development workflows.
+- **Open-source contributors** who need consistent project structure.
+- **Anyone tired** of repeating the same boilerplate and setup tasks.
