@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/licenses/COOKTITLE.svg" alt="Typer Banner" width="500"/>
+  <img src="assets/licenses/COOKTITLE.svg" alt="Typer Banner" width="300"/>
 </p>
 
 <p><i>Typer, build great CLIs. Easy to code. Based on Python type hints.</i></p>
