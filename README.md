@@ -1,30 +1,14 @@
-# Cook CLI Tool Setup Instructions
+<p align="center">
+  <img src="" alt="Typer Logo" height="100">
+</p>
 
-Follow the steps below to set up and run the Cook CLI tool:
 
-1. **Create a virtual environment**:
-  ```bash
-  python3 -m venv env
-  ```
 
-2. **Activate the virtual environment**:
-  - On Linux/macOS:
-    ```bash
-    source env/bin/activate
-    ```
-  - On Windows:
-    ```bash
-    .\env\Scripts\activate
-    ```
+<p align="center"><i>Typer, build great CLIs. Easy to code. Based on Python type hints.</i></p>
 
-3. **Install the required packages**:
-  ```bash
-  pip install -r requirements.txt
-  ```
-
-4. **Run the main script**:
-  ```bash
-  python main.py
-  ```
-
-You're all set to use the Cook CLI tool!
+<p align="center">
+  <img alt="Test Status" src="https://img.shields.io/badge/Test-passing-brightgreen?style=flat-square">
+  <img alt="Publish Status" src="https://img.shields.io/badge/Publish-passing-brightgreen?style=flat-square">
+  <img alt="Coverage" src="https://img.shields.io/badge/coverage-100%25-brightgreen?style=flat-square">
+  <img alt="PyPI" src="https://img.shields.io/badge/pypi%20package-v0.16.0-brightgreen?style=flat-square">
+</p>
