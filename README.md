@@ -1,9 +1,9 @@
 ![Typer Banner](assets/licenses/COOKTITLE.png)
 
 
-<p align="center"><i>Typer, build great CLIs. Easy to code. Based on Python type hints.</i></p>
+<p><i>Typer, build great CLIs. Easy to code. Based on Python type hints.</i></p>
 
-<p align="center">
+<p>
   <img alt="Test Status" src="https://img.shields.io/badge/Test-passing-brightgreen?style=flat-square">
   <img alt="Publish Status" src="https://img.shields.io/badge/Publish-passing-brightgreen?style=flat-square">
   <img alt="Coverage" src="https://img.shields.io/badge/coverage-100%25-brightgreen?style=flat-square">
