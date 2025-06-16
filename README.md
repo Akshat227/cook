@@ -1,5 +1,6 @@
-![Typer Banner](assets/licenses/COOKTITLE.png)
-
+<p align="center">
+  <img src="assets/COOKTITLE.png" alt="Typer Banner" width="600"/>
+</p>
 
 <p><i>Typer, build great CLIs. Easy to code. Based on Python type hints.</i></p>
 
