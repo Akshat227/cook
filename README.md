@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="Typer Logo" height="100">
+  <img src="" alt="assets/COOKLOGOTITLE.png height="100">
 </p>
 
 
