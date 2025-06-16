@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="assets/licenses/COOKTITLE.png" alt="COOK" height="100">
-</p>
-
+![Typer Banner](assets/licenses/COOKTITLE.png)
 
 
 <p align="center"><i>Typer, build great CLIs. Easy to code. Based on Python type hints.</i></p>
