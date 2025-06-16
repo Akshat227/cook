@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="assets/COOKLOGOTITLE.png height="100">
+  <img src="assets/licenses/COOKTITLE.png" alt="COOK" height="100">
 </p>
 
 
