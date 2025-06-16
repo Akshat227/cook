@@ -6,4 +6,4 @@
 
 ---
 
-### Cook - The All-in-One CLI for Lazy Devs
+###                 Cook - The All-in-One CLI for Lazy Devs.
