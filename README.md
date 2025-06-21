@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="font-family: 'Comic Sans MS', cursive; font-size: 20px;">
   <img src="assets/licenses/COOKTITLE.svg" alt="Typer Banner" width="250"/>
 </p>
 
