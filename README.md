@@ -1,8 +1,8 @@
-<p align="center" style="font-family: 'Comic Sans MS', cursive; font-size: 20px;">
+<p align="center" >
   <img src="assets/licenses/COOKTITLE.svg" alt="Typer Banner" width="250"/>
 </p>
 
-<p align="center"><i>A everyday CLI tool for you, like a swiss army knife? But for the developers.</i></p> 
+<p align="center" style="font-family: 'K2D', cursive; font-size: 20px;" ><i>A everyday CLI tool for you, like a swiss army knife? But for the developers.</i></p> 
 
 ---
 
